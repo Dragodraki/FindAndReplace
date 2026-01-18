@@ -1,9 +1,11 @@
 # FindAndReplace
 Find and replace content in files, reliable (stable), no matter the encoding, nor their size, nor whether the operation was successful or not.
 (Release Date: 15.04.2024, Publisher: ZZZProjects & Dragodraki alias Dreamland, as fork this is a special version with some enhancements)
+
 <br/>
 
 [<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/FindAndReplace/releases/latest/download/fnr.exe)
+
 <br/>
 
 -------------------------------
@@ -14,6 +16,7 @@ Thats one of the funniest things: Tools having a GUI but a (silent) command-line
 
 ![basic-usage-1](https://github.com/Dragodraki/FNR---Find-and-replace/assets/76787321/8b8d9b48-f4af-4c0b-8255-d77bcc70af97)
 
+<br/>
 
 -------------------------------
 VERSION 1.8.1 -> 1.9.0 (fork)
@@ -33,6 +36,7 @@ Functional:
 and thus set its lower requirement as a benchmark
 - After execution via command line, the (invisible) app and thus the process is closed properly (entering ENTER in a visible terminal is no longer terminal to exit is no longer necessary), this was a very big bug in the original version of ZZZProjects
 
+<br/>
 
 -------------------------------
 LICENSE (OPEN-SOURCE)
@@ -47,6 +51,7 @@ Limitations:
 - Don't sell it as product as the app is originally developed by ZZZProjects!
 - Don't abuse it for malicious purposes!
 
+<br/>
 
 -------------------------------
 USAGE
